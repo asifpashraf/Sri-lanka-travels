@@ -1,4 +1,5 @@
 import React from 'react';
+import heritage from '../assets/heritage.png'
 
 const TravelTourismWebsite = () => {
   return (
@@ -16,7 +17,7 @@ const TravelTourismWebsite = () => {
       </header>
 
       {/* Hero Section */}
-      <section className="bg-cover bg-center h-screen flex items-center justify-center text-white" style={{ backgroundImage: 'url(/images/hero.jpg)' }}>
+      <section className="bg-cover bg-center h-screen flex items-center justify-center text-white" style={{ backgroundImage: `url(${heritage})` }}>
         <div className="text-center">
           <h2 className="text-4xl font-bold mb-4">Discover the Wonders of Sri Lanka</h2>
           <p className="text-lg mb-6">Customized tours for unforgettable experiences.</p>
