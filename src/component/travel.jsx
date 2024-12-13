@@ -128,6 +128,7 @@ const TravelTourismWebsite = () => {
         <p>Email: <a href="mailto:info@srilankatravels.com" className="underline hover:text-gray-200">info@srilankatravels.com</a></p>
         <p>Instagram: <a href="https://instagram.com/srilankatravels" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-200">@srilankatravels</a></p>
         <p>Phone: +94 123 456 789</p>
+        <p>good</p>
         </footer>
 
     </div>
